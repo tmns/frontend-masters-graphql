@@ -1,3 +1,6 @@
+# This repo hosts my work from the Frontend Masters course 'Intro to GraphQL'
+## Below is the README provided by the instructor (Scott Moss)
+
 # Intro to GraphQL
 > Scott Moss & Frontend Masters
 
